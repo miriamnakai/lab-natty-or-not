@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Receita de Bolo de Laranja Feito com IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma receita de bolo de laranja genérico, utilizando ferramentas de chat IA comum atualmente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft EDGE, chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Forneci as informações chave para o Chat GPT: expliquei para ele criar uma receita de bolo de laranja utilizando as receitas mais confiáveis e bem avaliadas da internet como referência, tudo isso de forma que pareça que um ser humano comum escreveu e publicou em um site ou blog de receitas. Pedi para ele criar também uma imagem do bolo de laranja pronto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O texto/página de receita de bolo de laranja ficou muito crível, parecia realmente que um ser humano o fez. O bolo de laranja, porém, ficou um pouco distorcido e saturado, ficando um pouco claro que fora feito por IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Entendi a partir disso que as IAs estão avançando em ritmo acelerado, em especial às ferramentas de Chat IA, no entanto reconheço ainda um potencial crescimento com relação à criação de imagens por IAs comuns.
 ```
 
 ### Exemplos e Insigths
